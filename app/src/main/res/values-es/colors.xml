@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e6001b</color>
+    <color name="colorPrimaryDark">#fed500</color>
+    <color name="colorAccent">#e6001b</color>
+    <color name="text_color">#fed500</color>
+</resources>

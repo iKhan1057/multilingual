@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CountryTour</string>
+    <string name="welcome">خوش آمدید</string>
+    <string name="profile_bannar_image">https://www.thenews.com.pk/assets/uploads/updates/2020-10-16/730227_7541363_jannat_updates.jpeg</string>
+    <string name="profile_image_url">https://i.pinimg.com/originals/e1/f9/84/e1f984de2b0c9470afe949d11b0d2ede.jpg</string>
+    <string name="profile_name">جنت میرزا</string>
+    <string name="dob_caption">پیدائش کی تاریخ</string>
+    <string name="dob">08/14/1997</string>
+    <string name="country_caption">ملک</string>
+    <string name="country">پاکستان</string>
+    <string name="profession_caption">پیشہ</string>
+    <string name="profession">اداکارہ</string>
+    <string name="gender_caption">صنف</string>
+    <string name="gender">عورت</string>
+    <string name="height_caption">اونچائی</string>
+    <string name="height_val">1.64 میٹر</string>
+    <string name="weight_caption">وزن</string>
+    <string name="weight_val"> 55 کلوگرام </string>
+    <string name="religion_caption">مذہب</string>
+    <string name="religion">مسلمان</string>
+    <string name="age_caption">عمر</string>
+    <string name="age">25</string>
+    <string name="hobbies_caption">شوق</string>
+    <string name="hobbies">سفر ، ویڈیو بنانا اور تیراکی</string>
+</resources>

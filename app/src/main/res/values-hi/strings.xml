@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CountryTour</string>
+    <string name="welcome">स्वागत</string>
+    <string name="profile_bannar_image">https://images.cinemaexpress.com/uploads/user/imagelibrary/2020/3/30/original/995876-sakshyam-movie-success-meet-91683_1200.jpg</string>
+    <string name="profile_image_url">https://images.hungama.com/a/1/f75/216/40967/40967_175x175.jpg</string>
+    <string name="profile_name">पूजा हेगड़े</string>
+    <string name="dob_caption">जन्म की तारीख</string>
+    <string name="dob">13/10/1990</string>
+    <string name="country_caption">देश</string>
+    <string name="country">भारत</string>
+    <string name="profession_caption">व्यवसाय</string>
+    <string name="profession">अभिनेत्री</string>
+    <string name="gender_caption">लिंग</string>
+    <string name="gender">महिला</string>
+    <string name="height_caption">ऊंचाई</string>
+    <string name="height_val">1.68 मी</string>
+    <string name="weight_caption">वजन</string>
+    <string name="weight_val">53 किग्रा</string>
+    <string name="religion_caption">धर्म</string>
+    <string name="religion">हिंदू</string>
+    <string name="age_caption">आयु</string>
+    <string name="age">30</string>
+    <string name="hobbies_caption">शौक</string>
+    <string name="hobbies">नृत्य, यात्रा, गायन, पढ़ना</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CountryTour</string>
+    <string name="welcome">Welcome</string>
+    <string name="profile_bannar_image">https://d2me2qg8dfiw8u.cloudfront.net/content/uploads/2019/05/22101821/Maria-Sharapova-blowing-kisses-from-PA-752x428.jpg</string>
+    <string name="profile_image_url">https://1.bp.blogspot.com/_FeuPKiPt1o4/S3uYuAb3MXI/AAAAAAAAACc/93aVP7sUa3k/s400/Maria-Sharapova.jpg</string>
+    <string name="profile_name">Maria Sharapova</string>
+    <string name="dob_caption">Date Of Birth</string>
+    <string name="dob">19/04/1987</string>
+    <string name="country_caption">Country</string>
+    <string name="country">USA</string>
+    <string name="profession_caption">Profession</string>
+    <string name="profession">Tennis Player</string>
+    <string name="gender_caption">Gender</string>
+    <string name="gender">Female</string>
+    <string name="height_caption">Height</string>
+    <string name="height_val">1.88m</string>
+    <string name="weight_caption">Weight</string>
+    <string name="weight_val">59kg</string>
+    <string name="religion_caption">Religion</string>
+    <string name="religion">Christian</string>
+    <string name="age_caption">Age</string>
+    <string name="age">33</string>
+    <string name="hobbies_caption">Hobbies</string>
+    <string name="hobbies">Singing,Dancing,Modeling,Watching Movies</string>
+</resources>

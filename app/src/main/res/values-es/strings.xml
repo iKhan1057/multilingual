@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CountryTour</string>
+    <string name="welcome">Bienvenida</string>
+    <string name="profile_bannar_image">https://media.allure.com/photos/5af30fdf62e5a7172ede99b5/16:9/w_2560%2Cc_limit/GettyImages-956374664.jpg</string>
+    <string name="profile_image_url">https://www.theolivepress.es/wp-content/uploads/2012/09/Penelope-Cruz.jpg</string>
+    <string name="profile_name">Penélope Cruz Sánchez</string>
+    <string name="dob_caption">Fecha de nacimiento</string>
+    <string name="dob">28/04/1974</string>
+    <string name="country_caption">País</string>
+    <string name="country">España</string>
+    <string name="profession_caption">Profesión</string>
+    <string name="profession">Actriz, Modelo</string>
+    <string name="gender_caption">Género</string>
+    <string name="gender">Hembra</string>
+    <string name="height_caption">Altura</string>
+    <string name="height_val">1.68m</string>
+    <string name="weight_caption">Peso</string>
+    <string name="weight_val">62kg</string>
+    <string name="religion_caption">Religión</string>
+    <string name="religion">Católico romano</string>
+    <string name="age_caption">Años</string>
+    <string name="age">46</string>
+    <string name="hobbies_caption">Aficiones</string>
+    <string name="hobbies">Leyendo</string>
+</resources>

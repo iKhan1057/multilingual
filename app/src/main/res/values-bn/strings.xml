@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CountryTour</string>
+    <string name="welcome">স্বাগত</string>
+    <string name="profile_bannar_image">https://www.daily-bangladesh.com/media/imgAll/2020March/en/Bidya-Sinha-Mim-2004031627.jpg</string>
+    <string name="profile_image_url">https://www.mwallpapers.com/photos/celebrities/bidya-sinha-saha-mim/bidya-sinha-saha-mimhd-wallpapers-desktop-background-android-iphone-1080p-4k-uu2ur.jpg?v=1576991231</string>
+    <string name="profile_name">বিদ্যা সিনহা সাহা মিম</string>
+    <string name="dob_caption">জন্ম তারিখ</string>
+    <string name="dob">10/11/1991</string>
+    <string name="country_caption">দেশ</string>
+    <string name="country">বাংলাদেশ</string>
+    <string name="profession_caption">পেশা</string>
+    <string name="profession">অভিনেত্রী</string>
+    <string name="gender_caption">লিঙ্গ</string>
+    <string name="gender">মহিলা</string>
+    <string name="height_caption">উচ্চতা</string>
+    <string name="height_val">1.73 মি</string>
+    <string name="weight_caption">ওজন</string>
+    <string name="weight_val">55 কেজি</string>
+    <string name="religion_caption">ধর্ম</string>
+    <string name="religion">মুসলিম</string>
+    <string name="age_caption">বয়স</string>
+    <string name="age">31</string>
+    <string name="hobbies_caption">শখ</string>
+    <string name="hobbies">গান শোনা, পড়া, টিভি দেখা, বন্ধুদের সাথে চ্যাট করা</string>
+</resources>

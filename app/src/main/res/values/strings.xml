@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CountryTour</string>
+    <string name="welcome">Welcome</string>
+    <string name="profile_bannar_image">https://d2me2qg8dfiw8u.cloudfront.net/content/uploads/2019/05/22101821/Maria-Sharapova-blowing-kisses-from-PA-752x428.jpg</string>
+    <string name="profile_image_url">https://i.pinimg.com/originals/e1/f9/84/e1f984de2b0c9470afe949d11b0d2ede.jpg</string>
+    <string name="profile_name">Jannat Mirza</string>
+    <string name="dob_caption">Date Of Birth</string>
+    <string name="dob">02/12/2020</string>
+    <string name="country_caption">Country</string>
+    <string name="country">USA</string>
+    <string name="profession_caption">Profession</string>
+    <string name="profession">Actress</string>
+    <string name="gender_caption">Gender</string>
+    <string name="gender">Female</string>
+    <string name="height_caption">Height</string>
+    <string name="height_val">1.88m</string>
+    <string name="weight_caption">Weight</string>
+    <string name="weight_val">55kg</string>
+    <string name="religion_caption">Religion</string>
+    <string name="religion">Christian</string>
+    <string name="age_caption">Age</string>
+    <string name="age">25</string>
+    <string name="hobbies_caption">Hobbies</string>
+    <string name="hobbies">Playing</string>
+</resources>
